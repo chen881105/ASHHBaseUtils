@@ -1,6 +1,7 @@
 # ASHHBaseUtils
 框架工具类
 
+使用方法
 
 
 Add it in your root build.gradle at the end of repositories:
