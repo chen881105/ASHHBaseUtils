@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_complete_state_selector.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_complete_state_selector.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_error_state_selector.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_error_state_selector.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_idle_state_selector.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_idle_state_selector.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_idle_state_selector.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_idle_state_selector.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\hh_color_select_photo_sure.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\hh_color_select_photo_sure.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\hh_color_select_photo_sure.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\hh_color_select_photo_sure.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_error_state_selector.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_error_state_selector.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\cpb_complete_state_selector.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\bundles\\debug\\res\\color\\cpb_complete_state_selector.xml"
+    },
+    {
+        "merged": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\As_company_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\cgx_studio_space\\ASHHBaseUtils\\hHBaseUtils\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]
